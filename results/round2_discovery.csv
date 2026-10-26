@@ -1,0 +1,4 @@
+code,hypothesis,trades,trades_per_yr,avg_net_pct,excess_bp,win_pct,episodes,luck_p,consistency_pct,status
+R1,"Panic (VIX > 30), 16 funds",869,34.9,1.768,102.72,62.6,61,0.018,64.0,FAIL
+R2,"Panic, first cross only, 16 funds",413,16.6,0.953,21.2,57.6,30,0.4258,45.0,FAIL
+R3,"S&P 500 down 20%+, since 1950",79,1.2,1.14,41.62,60.8,79,0.2104,33.0,FAIL
